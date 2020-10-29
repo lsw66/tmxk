@@ -1,0 +1,3 @@
+MQTT官方手册：https://mcxiaoke.gitbooks.io/mqtt-cn/content/mqtt/0308-SUBSCRIBE.html
+MQTT实验流程记录博客：https://blog.csdn.net/daniaoxp
+字符串在线加密：http://encode.chahuo.com
